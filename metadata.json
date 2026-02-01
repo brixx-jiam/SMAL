@@ -1,0 +1,10 @@
+
+{
+  "name": "SMAL - Govt Meeting Logger",
+  "description": "Smart Meeting & Attendance Logger. Government-grade platform for QR attendance, AI minutes, and action item tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
